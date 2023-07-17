@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-<img src="/image//desktop-preview.jpg" alt="preview"/>
+<img src="/images//desktop-preview.jpg" alt="preview"/>
 
 ### Screenshot
 
