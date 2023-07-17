@@ -20,6 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@jeanD1300]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/jeanD1300))
+- Frontend Mentor - [@jeanD1300]([https://www.frontendmentor.io/profile/jeanD1300])
 
 
