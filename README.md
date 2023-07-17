@@ -11,11 +11,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<<<<<<< HEAD
-![This is my solution](/image/screenshot.png)
-=======
-![This is my solution]/image/screenshot.png)
->>>>>>> 0405f6639abd92f430c65cd11c83bef8b3de5756
+
+![This is my solution](/images/screenshot.png)
+
 
 ### Links
 
